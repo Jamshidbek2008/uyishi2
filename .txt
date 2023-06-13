@@ -1,0 +1,39 @@
+body{
+
+    background-image: url(rasmlar/about_bg.png);
+}
+.r1{
+    font-size: 50px;
+    margin-left: 500px;
+    color: #fff;
+    margin-right: 700px;
+}
+.r2{
+    font-size: 35px;
+    margin-left: 500px;
+    color: #fff;
+    margin-top: -20px;
+    margin-right: 0px;
+}
+.r3{
+    font-size: 190px;
+    margin-left: 50px;
+    color: #fff;
+    margin-top: 100px;
+    margin-right: 0px;
+    font-family: fantasy;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 50px 50px ;
+    margin-left: 600px;
+    margin-top: -300px;
+    color: #5a902480;
+    font-size: 40px;
+}
+button:hover{
+    width: 210px;
+    height: 60px;
+}
